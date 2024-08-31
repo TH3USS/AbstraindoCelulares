@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\bin\Debug\net7.0\AbstraindoCelulares.exe
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\bin\Debug\net7.0\AbstraindoCelulares.deps.json
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\bin\Debug\net7.0\AbstraindoCelulares.runtimeconfig.json
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\bin\Debug\net7.0\AbstraindoCelulares.dll
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\bin\Debug\net7.0\AbstraindoCelulares.pdb
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\AbstraindoCelulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\AbstraindoCelulares.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\AbstraindoCelulares.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\AbstraindoCelulares.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\AbstraindoCelulares.dll
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\refint\AbstraindoCelulares.dll
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\AbstraindoCelulares.pdb
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\AbstraindoCelulares.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Projetos\C#\AbstraindoCelulares\obj\Debug\net7.0\ref\AbstraindoCelulares.dll
